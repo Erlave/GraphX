@@ -89,10 +89,10 @@ Feel free to modify and expand it.
 
 ## 🙌 Credits
 
-Created by **ERLAVE** and contributors.
+Created by **ERLAVE** .
 
 Made for fun and learning ❤️
 
-```
+
 
 
